@@ -1,4 +1,4 @@
-import multer from "multer";
+/*import multer from "multer";
 import { dirname, extname, join } from "path";
 import { fileURLToPath } from "url";
 
@@ -30,4 +30,4 @@ const createMulterConfig = (destinationFolder) => {
     });
 };
 
-export const uploadProfilePicture = createMulterConfig("../../public/uploads/profile-pictures");
+export const uploadProfilePicture = createMulterConfig("../../public/uploads/profile-pictures");*/
